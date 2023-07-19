@@ -1,6 +1,6 @@
-package solid.openClosed.SpecificationPattern.Specification.impl;
+package SOLID.openClosed.SpecificationPattern.Specification.impl;
 
-import solid.openClosed.SpecificationPattern.Specification.Specification;
+import SOLID.openClosed.SpecificationPattern.Specification.Specification;
 
 public class AndSpecification<T> implements Specification<T>
 {

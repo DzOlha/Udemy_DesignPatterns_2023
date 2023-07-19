@@ -1,8 +1,8 @@
-package solid.openClosed.SpecificationPattern.Specification.impl;
+package SOLID.openClosed.SpecificationPattern.Specification.impl;
 
-import solid.openClosed.SpecificationPattern.Model.Product;
-import solid.openClosed.SpecificationPattern.Model.Size;
-import solid.openClosed.SpecificationPattern.Specification.Specification;
+import SOLID.openClosed.SpecificationPattern.Model.Product;
+import SOLID.openClosed.SpecificationPattern.Model.Size;
+import SOLID.openClosed.SpecificationPattern.Specification.Specification;
 
 public class SizeSpecification implements Specification<Product>
 {

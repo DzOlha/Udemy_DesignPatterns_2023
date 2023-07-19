@@ -1,6 +1,6 @@
-package solid.openClosed.SpecificationPattern.Filter;
+package SOLID.openClosed.SpecificationPattern.Filter;
 
-import solid.openClosed.SpecificationPattern.Specification.Specification;
+import SOLID.openClosed.SpecificationPattern.Specification.Specification;
 
 import java.util.List;
 import java.util.stream.Stream;

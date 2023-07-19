@@ -1,12 +1,12 @@
-package solid;
+package SOLID;
 
-import solid.openClosed.SpecificationPattern.Filter.impl.BetterFilter;
-import solid.openClosed.SpecificationPattern.Model.Color;
-import solid.openClosed.SpecificationPattern.Model.Product;
-import solid.openClosed.SpecificationPattern.Model.Size;
-import solid.openClosed.SpecificationPattern.Specification.impl.AndSpecification;
-import solid.openClosed.SpecificationPattern.Specification.impl.ColorSpecification;
-import solid.openClosed.SpecificationPattern.Specification.impl.SizeSpecification;
+import SOLID.openClosed.SpecificationPattern.Filter.impl.BetterFilter;
+import SOLID.openClosed.SpecificationPattern.Model.Color;
+import SOLID.openClosed.SpecificationPattern.Model.Product;
+import SOLID.openClosed.SpecificationPattern.Model.Size;
+import SOLID.openClosed.SpecificationPattern.Specification.impl.AndSpecification;
+import SOLID.openClosed.SpecificationPattern.Specification.impl.ColorSpecification;
+import SOLID.openClosed.SpecificationPattern.Specification.impl.SizeSpecification;
 
 import java.util.List;
 
