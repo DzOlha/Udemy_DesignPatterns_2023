@@ -1,0 +1,13 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "world" 3 times.(ëı·
+[
+java:S1192"FDefine a constant instead of duplicating this literal "hello" 4 times.(²ƒ:
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(‡Ü¨Š
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(§•çâùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¨—êù
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¨—êù
