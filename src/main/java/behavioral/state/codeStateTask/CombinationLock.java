@@ -29,13 +29,11 @@ class CombinationLock {
         size = this.combination.length;
         String currentDigit = State.LOCKED;
         String nextDigit = Integer.toString(combination[0]);
+        rules.put(currentDigit, nextDigit);
         for (int i = 0; i < size; i++) {
-            rules.put(currentDigit, nextDigit);
             currentDigit = Integer.toString(combination[i]);
             nextDigit = (i != size - 1) ? Integer.toString(combination[i + 1]) : State.OPEN;
-            if(i == size - 1) {
-                rules.put(currentDigit, nextDigit);
-            }
+            rules.put(currentDigit, nextDigit);
         }
         System.out.println(rules);
     }
